@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+    <!-- to enable instant install of packages that are already installed by another user -->
+    <uses-permission android:name="android.permission.INSTALL_EXISTING_PACKAGES" />
+    <uses-permission android:name="android.permission.DELETE_PACKAGES" />
+    <!-- to query whether a package is installed for another user -->
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+</manifest>

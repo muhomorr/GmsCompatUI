@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Play Services compatibility</string>
+
+    <string name="header">This feature enables broad app compatibility without compromising the OS security.</string>
+    <string name="learn_more">Learn more…</string>
+    <string name="install">Install Play Services</string>
+    <string name="are_installed">Play Services are installed.\nComponent versions:\n</string>
+
+    <!--decimal megabytes-->
+    <string name="downloading">Downloading… %1$d MB</string>
+    <string name="installing">"Installing %1$d/%2$d "</string>
+
+    <string name="uninstall">Uninstall Play Services</string>
+    <string name="uninstall_subtitle">Apps that depend on Play Services may malfunction.</string>
+    <string name="uninstalling">Uninstalling…</string>
+    <string name="grant_battery_optimization_exemption">Let Play Services always run in the background</string>
+    <string name="grant_battery_optimization_exemption_subtitle">Grant this permission, if you want to promptly receive push notifactions.</string>
+    <string name="settings">Play Services settings</string>
+    <string name="system_settings">Play Services system settings</string>
+    <string name="allow_updates_to_unknown_versions">Allow updates to unknown versions</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
